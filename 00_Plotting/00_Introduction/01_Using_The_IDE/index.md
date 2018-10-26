@@ -1,27 +1,16 @@
-### Title Goes Here -- Make it different than the folder name
-#### Subtitle goes here
-Text goes here
-<div class="exercise">
-    <div class="title">
-      <h2>This is an python exercise with a plot</h2>
-    </div>
+### Start Coding!
 
-    <div data-datacamp-exercise data-lang="python" data-height="auto">
-      <code data-type="pre-exercise-code"></code>
-      <code data-type="sample-code">
-        import numpy as np
-        import matplotlib.pyplot as plt
+In this card, I am introducing you to the IDE which we will be using for this short class.  If you have ever used ipython before, this will look very familiar, but if now, don't worry!  It is very easy to use!
 
-        x = np.arange(0, 5, 0.1);
-        y = np.sin(x)
-        plt.plot(x, y)
-        plt.show()
-      </code>
-      <code data-type="solution"></code>
-      <code data-type="sct"></code>
-      <div data-type="hint">Just press 'Run'.</div>
-    </div>
-  </div>
-  
- #### here is another subtitle
- and some text below it
+You will see below 2 boxes that you can code in.  The box named script.py is where you write your code and then the ipython terminal is the interactive python area.  In the ipython terminal, you can define variables and create expressions but only one at a time.  If this is confusing, feel free to book a time 1:1 with an instructor!
+
+```python
+# This is comment
+# This is also in the script - not the ipython notebook
+
+#Define a variable
+x = 10
+
+#print out the variable
+print(x)
+```
