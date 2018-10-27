@@ -13,3 +13,6 @@ As well, we don't want to have to type matplotlib.pyplot every time that we want
 import matplotlib.pyplot as plt
 
 ```
+
+
+In addition, we can import other libraries which might be useful to us.  In general, **numpy** tends to be very nice as it allows mathematical operations with vectors, so you may hear me reference this commonly as well.
