@@ -18,6 +18,8 @@ y = x
 # Plot!  
 plt.plot(x,y)
 
+# Add a title
+plt.title('plot of y = x')
 
 # Show the plot
 plt.show()
