@@ -6,7 +6,7 @@ First up, Adding a title to your plot!  Titles are very important to help other 
 
 Below I implemented this in the IDE!
 
-```python  
+```python
 # Import out libraries
 import matplotlib.pyplot as plt
 import numpy as np
