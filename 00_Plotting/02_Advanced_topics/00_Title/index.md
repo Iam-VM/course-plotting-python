@@ -17,8 +17,6 @@ y = x
 
 # Plot!  
 plt.plot(x,y)
-
-# Add a title
-plt.title(' Plot of y = x')
-
 ```
+
+`
