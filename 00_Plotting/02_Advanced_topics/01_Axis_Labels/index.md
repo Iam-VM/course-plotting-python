@@ -24,4 +24,7 @@ plt.xlabel('x axis')
 # Add a ylabel
 plt.ylabel('y axis')
 
+# Show the plot
+plt.show()
+
 ```

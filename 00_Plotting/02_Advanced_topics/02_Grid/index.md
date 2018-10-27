@@ -36,4 +36,7 @@ plt.grid(alpha = .4, ls = '--')
 
 # Add a legend with the labels that we used previously
 plt.legend()
+
+# Show the plot
+plt.show()
 ```

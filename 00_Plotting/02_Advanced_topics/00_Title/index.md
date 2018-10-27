@@ -17,6 +17,8 @@ y = x
 
 # Plot!  
 plt.plot(x,y)
-```
 
-`
+
+# Show the plot
+plt.show()
+```
