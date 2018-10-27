@@ -19,7 +19,7 @@ y2 = x ** 2
 plt.plot(x, y, label='plot 1 y = x')
 
 # Make Plot #2
-plt.plot(x, y2, label='plot 1 y = x**2')
+plt.plot(x, y2, label='plot 2 y = x**2')
 
 
 # Add a title
