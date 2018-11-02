@@ -1,8 +1,9 @@
 url_name: python_modeling_for_machine_learning
-display_name: Python Modeling for Machine Learning
+display_name: Python Data Modeling Into for Machine Learning
 org: EXLskills
 course: python_modeling_for_machine_learning
 course_image: https://s3-us-west-2.amazonaws.com/exlskills-course-logos/course-plotting-python.png
+weight: 9000
 language: en
 est_minutes: 1080
 primary_topic: Python
