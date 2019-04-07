@@ -10,7 +10,7 @@ x = list(range(100))
 y = x
 ```
 
-This will give me back 2 vectors. x which is `[0,1,2,3,....,98,99,100]` and y which is just a copy of that.  
+This will give me back 2 vectors. x which is `[0,1,2,3,....,98,99]` and y which is just a copy of that.  
 
 If for example, we wanted to plot y = x^2, we would use the library numpy and just square the entire vector!
 
